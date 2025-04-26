@@ -12,6 +12,8 @@
 1. Установите зависимости:
 ```bash
 pip install pandas openpyxl
+
+2. Запуск скрипта:
 ```python
 python decision.py
 
